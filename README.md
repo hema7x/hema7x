@@ -4,6 +4,8 @@
 
 👋 Hi, I'm Ibrahim Hamdi! I'm a software engineer and problem solver who's passionate about Java programming with the Spring framework, Backend development, and software architecture. I enjoy exploring how things work, solving complex problems, and building efficient, scalable software solutions.
 
+- 📫 How to reach me: **ibrahim.hamdi2115@gmail.com**
+
 ---
 
 <p align="center">
