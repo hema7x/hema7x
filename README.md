@@ -14,15 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hema7x&show_icons=true&theme=dark" alt="Ibrahim's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema7x&layout=compact&theme=dark" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 
 ### 🛡️ Languages and Tools
